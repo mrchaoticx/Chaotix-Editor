@@ -1,0 +1,39 @@
+.wrapper {
+    margin: 0;
+    width: 100%;
+}
+
+.actions {
+    background: lightgray;
+    padding: 2;
+}
+
+.blocks {
+    width: 25vw;
+    border:1px black solid;
+    padding: 3px;
+    height: 100vh;
+    float: left;
+}
+
+.editor {
+    width: 46vw;
+    border:1px black solid;
+    padding: 3px;
+    height: 100vh;
+    float: left;
+}
+
+.branch {
+    width: 25vw;
+    border:1px black solid;
+    padding: 3px;
+    height: 100vh;
+    float: left;
+}
+
+.editorArea{
+    width:50%;
+    height:100%;
+    float: right;
+}
